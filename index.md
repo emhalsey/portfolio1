@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Emma Halsey's Portfolio: Welcome to my projects
 ---
 
